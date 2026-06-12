@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permissionLabel">Audio Permission</string>
+    <string name="rationaleDescription">Audio recording is required to capture sound for your videos. Please allow this permission to proceed.</string>
+    <string name="cameraDescription">Camera Flash Toggle Button Control</string>
+    <string name="cameraVideo">VIDEO</string>
+    <string name="cameraPhoto">PHOTO</string>
+    <string name="cameraCloseDescription">Close Camera Surface</string>
+    <string name="cameraSwitchDescription">Switch Camera Front Back Lens Toggle</string>
+    <string name="grant_permission">Grant Permission</string>
+    <string name="permission_required">Permission Required</string>
+    <string name="permission_is_permanently_denied_please_allow_recording_permissions_in_app_settings_to_proceed">%1$s permission is permanently denied. Please allow %2$s recording permissions in app settings to proceed.</string>
+    <string name="go_to_settings">Go to Settings</string>
+    <string name="cancel">cancel</string>
+
+</resources>
